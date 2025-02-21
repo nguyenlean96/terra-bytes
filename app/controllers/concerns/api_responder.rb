@@ -1,7 +1,7 @@
 module ApiResponder
   extend ActiveSupport::Concern
 
-  def success(data= nil, message: nil, code: 200)
+  def success(data: nil, message: nil, code: 200)
     render json: {
       status: 'success',
       message: message,
@@ -15,3 +15,4 @@ module ApiResponder
       message: message
     }, status: code
   end
+end
