@@ -1,0 +1,68 @@
+# VI cities
+
+[
+    {
+        :name => 'Envy',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 17.699421,
+        :lon => -64.802917,
+    },
+    {
+        :name => 'Cruz Bay',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 18.331341,
+        :lon => -64.793747,
+    },
+    {
+        :name => 'Lovenlund',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 18.359119,
+        :lon => -64.91098,
+    },
+    {
+        :name => 'Saint Croix',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 17.7397,
+        :lon => -64.738762,
+    },
+    {
+        :name => 'Charlotte Amalie',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 18.3419,
+        :lon => -64.930702,
+    },
+    {
+        :name => 'Saint Croix Island',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 17.73563,
+        :lon => -64.747948,
+    },
+    {
+        :name => 'Saint Thomas Island',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 18.327129,
+        :lon => -64.969414,
+    },
+    {
+        :name => 'Virgin Islands of the United States',
+        :state => '',
+        :country => 'Virgin Islands (U.S.)',
+        :country_code => 'VI',
+        :lat => 18.348289,
+        :lon => -64.983482,
+    },
+];
