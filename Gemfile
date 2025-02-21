@@ -13,6 +13,8 @@ gem "puma", ">= 5.0"
 # Dotenv
 gem "dotenv-rails"
 
+gem 'kaminari'
+
 gem "activerecord-import"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
